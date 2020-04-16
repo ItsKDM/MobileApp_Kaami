@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IS_Kaami</string>
+
+    <string name="forget_pass">Enter your Email Address and we will send you instruction on how to reset your password.</string>
+    <string name="verification">Instruction has been sent to your Email.\nPlease follow the instructions to set new Password.</string>
+    <string name="sign_up">Sign up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="kaami_s">Kaami\'s\ </string>
+    <string name="app">App</string>
+    <string name="some_slogan">\'Some Slogan</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="already_account">Already have an Account? Login.</string>
+    <string name="skip_now">Skip Now</string>
+</resources>
